@@ -20,6 +20,18 @@ Logic Diagram:
 Truth Table:
 
 ![image](https://user-images.githubusercontent.com/123470785/215376366-95bec0df-c673-48a7-be4e-4f04a4197262.png)
+RTL Diagram:
+
+![Screenshot_20230130_081654](https://user-images.githubusercontent.com/123470785/215376955-ff286a7f-ed3e-44f4-87da-f5e90416ca34.png)
+
+Timing Diagram:
+
+
+![Screenshot_20230129_015348](https://user-images.githubusercontent.com/123470785/215377261-39d53b33-6dd2-4432-9582-25ebb84ab530.png)
+
+Result:
+
+Thus the 3 bit synchronous counter is designed and stimulated using verilog code.
 
 
 
